@@ -1,0 +1,19 @@
+.borrar{
+    height: 65px;
+    font-size: 1.6em;
+    display: flex;
+    flex: 1;
+    background-color: #2c639adc ;
+    margin-top: 8px;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    color: white;
+    border: 2px solid white;
+    border-radius: 25px;
+    cursor: pointer;
+}
+
+.borrar:hover{
+    background-color: #cf20bdc1;
+}
